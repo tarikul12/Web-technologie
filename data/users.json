@@ -1,0 +1,50 @@
+[
+    {
+        "firstname": "Ratul",
+        "lastname": "Ratul",
+        "email": "forceupme121@gmail.com",
+        "password": "12345678",
+        "bloodG": "B+",
+        "dob": "2023-11-16",
+        "gender": "male",
+        "country": "Bangladesh",
+        "phone": "01920221854",
+        "role": "manager"
+    },
+    {
+        "firstname": "priya",
+        "lastname": "priyaa",
+        "email": "priya@gmail.com",
+        "password": "priya",
+        "bloodG": "B+",
+        "dob": "2023-11-16",
+        "gender": "female",
+        "country": "United Kingdom",
+        "phone": "01956221777",
+        "role": "admin"
+    },
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "email": "john.doe@example.com",
+        "password": "password123",
+        "bloodG": "O+",
+        "dob": "1990-05-25",
+        "gender": "male",
+        "country": "Canada",
+        "phone": "1234567890",
+        "role": "donor"
+    },
+    {
+        "firstname": "Alice",
+        "lastname": "Johnson",
+        "email": "alice.johnson@example.com",
+        "password": "alice123",
+        "bloodG": "A-",
+        "dob": "1985-09-12",
+        "gender": "female",
+        "country": "Australia",
+        "phone": "9876543210",
+        "role": "donor"
+    }
+]
